@@ -1,0 +1,17 @@
+```{r}
+#| label: interruptions
+#| output: asis
+
+tibble::tribble(
+  ~years, ~name, ~description,
+  "2022", "\\textbf{Parental leave}", "On leave May 1, 2022 to December 31, 2022 for second child",
+  "2021", "\\textbf{Parental leave}", "On leave January 31, 2021 to August 28, 2021 for ﬁrst child",
+  "2020--22", "\\textbf{COVID-19 Pandemic}", "Lab was closed with no in-person data collection from March 2020 to March 2022",
+  "2017--18", "\\textbf{Lab space issues}", "Unable to collect data from July 2017 to September 2018 due to building/facility issues"
+) |> 
+  dplyr::mutate(
+    event = paste(name, "; ", description, sep = "")
+  ) |> 
+  dplyr::select(years, event) |> 
+  baretable(align = c('llp{16cm}'))
+```

@@ -1,0 +1,141 @@
+\underline{Presenting author(s)}, $^\dagger$Denotes trainee, $^\ddagger$Denotes co-senior authorship
+
+\vspace{1em}
+
+```{=latex}
+\begin{etaremune}[leftmargin=1.75em, itemsep=0.5em]
+
+  \item \underline{Calalo J}, Ngo T, Sullivan S, Roth A, Lokesh R, Buggeln JH, Strand K, Marchhart V, \textbf{Carter MJ}$^\ddagger$, Kurtzer I$^\ddagger$, \& Cashaback JGA$^\ddagger$. (2023). Reaching movements reflect ongoing deliberation prior to a decision. Poster presentation at the Annual Meeting of the \emph{Society for Neuroscience}; Washington, USA.
+  
+  \item \underline{Roth A}, Buggeln J, Calalo J, Lokesh R, Sullivan S, Ngo TT, Jeka J, \textbf{Carter MJ}$^\ddagger$, \& Cashaback JGA$^\ddagger$. (2023). The roles and interplay of reinforcement-based and error-based processes on exploratory behaviour in neurologically intact and Parkinson’s disease. Poster presentation at the Annual Meeting of the \emph{Society for Neuroscience}; Washington, USA.
+  
+  \item \underline{Sullivan S}, Lokesh R, Peters CS, Calalo J, Roth AR, Buggeln JH, Ngo TT, \textbf{Carter MJ}$^\ddagger$, \& Cashaback JGA$^\ddagger$. (2023). Humans are excessively indecisive under time constraints. Poster presentation at the Annual Meeting of the \emph{Society for Neuroscience}; Washington, USA.
+  
+  \item \underline{Afif N}$^\dagger$, McKay B$^\dagger$, Bacelar MFB, Cashaback JGA, \& textbf{Carter MJ}. Current accuracy is not always the best predictor of future accuracy: The consequences of dissociable bias and precision components. Poster presentation at the Annual Meeting of the \emph{Canadian Society for Psychomotor Learning \& Sport Psychology}; Kingston ON, Canada.
+  
+  \item \underline{Lalli M}$^\dagger$, Germain L$^\dagger$, McKay B$^\dagger$, \& textbf{Carter MJ}. (2023). The relationship between perceived competence and intrinsic motivation and motor skill retention: An exploratory analysis. Poster presentation at the Annual Meeting of the \emph{Canadian Society for Psychomotor Learning \& Sport Psychology}; Kingston ON, Canada.
+  
+  \item \underline{Calalo J}, Ngo T, Sullivan S, Roth A, Lokesh R, Buggeln JH, Strand K, Marchhart V, \textbf{Carter MJ}$^\ddagger$, Kurtzer I$^\ddagger$, \& Cashaback JGA$^\ddagger$. (2023). Reaching reflects ongoing deliberation prior to a decision. Verbal presentation at the Annual Meeting of the \emph{Canadian Society for Psychomotor Learning \& Sport Psychology}; Kingston ON, Canada.
+  
+  \item \underline{Roth A}, Buggeln J, Calalo J, Lokesh R, Sullivan S, Ngo TT, Jeka J, \textbf{Carter MJ}$^\ddagger$, \& Cashaback JGA$^\ddagger$. (2023). The roles and interplay of reinforcement-based and error-based processes on exploratory behaviour in Parkinson’s disease and neurologically intact populations. Verbal presentation at the Annual Meeting of the \emph{Canadian Society for Psychomotor Learning \& Sport Psychology}; Kingston ON, Canada.
+  
+  \item \underline{Sullivan S}, Lokesh R, Peters CS, Calalo J, Roth AR, Buggeln JH, Ngo TT, \textbf{Carter MJ}$^\ddagger$, \& Cashaback JGA$^\ddagger$. (2023). Humans make an excessive number of indecisions under time constraints. Verbal presentation at the Annual Meeting of the \emph{Canadian Society for Psychomotor Learning \& Sport Psychology}; Kingston ON, Canada.
+  
+  \item \underline{Roth A}, Buggeln J, Calalo J, Lokesh R, Sullivan S, Ngo TT, \textbf{Carter MJ}$^\ddagger$, \& Cashaback JGA$^\ddagger$. (2023). The role of reinforcement-based and error-based processes on exploratory motor behaviour in neurologically intact and Parkinson’s Disease. Verbal presentation at the \emph{NSF-DARE Conference on Computational Modeling for Neurorehabilitation}; Los Angeles CA, United States.
+
+  \item \underline{Mitchell B}$^\dagger$ \& \textbf{Carter MJ}. (2022). A free and open source 2-dimensional error score program. Poster presentation at the Annual Meeting of the \emph{Canadian Society for Psychomotor Learning \& Sport Psychology}; Montreal QB, Canada.
+  
+  \item \underline{McKay B}$^\dagger$, Bacelar MFB, \& \textbf{Carter MJ}. (2022). Low reproducibility of reported \emph{a priori} power analyses in motor behaviour research. Verbal presentation at the Annual Meeting of the \emph{Canadian Society for Psychomotor Learning \& Sport Psychology}; Montreal QB, Canada.
+  
+  \item \underline{St. Germain L}$^\dagger$, Sidhu R$^\dagger$, McKay B$^\dagger$, Mounir M$^\dagger$, Poskus A$^\dagger$, Yuen A$^\dagger$, Cashaback JGA$^\ddagger$, \& \textbf{Carter MJ}$^\ddagger$. (2022). The impact of combining punishment and reward feedback through transition schedules on performance and learning. Poster presentation at the Annual Meeting of the \emph{Canadian Society for Psychomotor Learning \& Sport Psychology}; Montreal QB, Canada.
+  
+  \item Mounir M$^\dagger$, McKay B$^\dagger$, Sariaslani A$^\dagger$, Douglas Katharine$^\dagger$, Tobis M$^\dagger$, St. Germain L$^\dagger$, Cashaback JGA$^\ddagger$, \& \underline{\textbf{Carter MJ}}$^\ddagger$. (2022). A failure to replicate the dissociable effects of punishment and reward on motor learning. Verbal presentation at the Annual Meeting of the \emph{Canadian Society for Psychomotor Learning \& Sport Psychology}; Montreal QB, Canada.
+  
+  \item \underline{McKay B}$^\dagger$, Corson A, Seedu J$^\dagger$, De Faveri CS$^\dagger$, Hasan H$^\dagger$, Arnold K$^\dagger$, Adams FC$^\dagger$, \& \textbf{Carter MJ}. (2022). The benefits of an external focus of attention are negligible after correcting for publication bias: A re-analysis and extension of Chua et al. (2021). Verbal presentation at the Annual Meeting of the \emph{North American Society for Psychology of Sport \& Physical Activity}; Waikōloa Village, Hawaii, United States.
+  
+  \item \underline{McKay B}$^\dagger$, Bacelar MFB, Parma JO, Miller MW$^\ddagger$, \& \textbf{Carter MJ}$^\ddagger$. (2022). Publication bias and underpowered study designs in enhanced expectancies and self-controlled learning research: A meta-analysis. Verbal presentation at the Annual Meeting of the \emph{North American Society for Psychology of Sport \& Physical Activity}; Waikōloa Village, Hawaii, United States.
+  
+  \item \textbf{Carter MJ}, \underline{Lohse KR}, \& Miller MW. (2022). Making strong predictions: Testing casusal hypothess in motor behavior studies. Verbal presentation at the Annual Meeting of the \emph{North American Society for Psychology of Sport \& Physical Activity}; Waikōloa Village, Hawaii, United States.
+  
+  \item \underline{Roth A}, Lokesh R, Calalo J, Sullivan S, \textbf{Carter MJ}$^\ddagger$, \& Cashaback JGA$^\ddagger$. (2022). Unique and interacting roles of reinforcement-based and error-based processes on exploratory motor behaviour. Poster presentation at the Annual Meeting of the \emph{Society for the Neural Control of Movement}; Dublin, Ireland.
+  
+  \item \underline{St. Germain L}$^\dagger$, McKay B$^\dagger$, Williams A$^\dagger$, Leschyshen O$^\dagger$, Poskus A$^\dagger$, Feldman S$^\dagger$, Cashaback JGA, \& \textbf{Carter MJ}. (2021). Binary feedback prevents a self‑controlled learning advantage. Verbal presentation at the Annual Meeting of the \emph{Canadian Society for Psychomotor Learning \& Sport Psychology}; Virtual Conference due to Covid-19.
+  
+  \item \underline{Lokesh R}, Calalo J, Roth A, \textbf{Carter MJ}$^\ddagger$, \& Cashaback JGA$^\ddagger$. (2021). Rapid decision‑making during competitive human-human sensorimotor interactions. Verbal presentation at the Annual Meeting of the \emph{Canadian Society for Psychomotor Learning \& Sport Psychology}; Virtual Conference due to Covid-19.
+
+  \item \underline{Roth A}, Lokesh R, Calalo J, \textbf{Carter MJ}$^\ddagger$, \& Cashaback JGA$^\ddagger$. (2021). The influence of reward feedback and error feedback on sensorimotor exploration. Verbal presentation at the Annual Meeting of the \emph{Canadian Society for Psychomotor Learning \& Sport Psychology}; Virtual Conference due to Covid-19.
+  
+  \item \underline{Marfisi J}$^\dagger$, St. Germain L$^\dagger$, \& \textbf{Carter MJ}. (2021). The persistence of inappropriate outcome variables in motor learning experiments: A follow-up to Fischman (2015). Poster presentation at the Annual Meeting of the \emph{North American Society for Psychology of Sport \& Physical Activity}; Virtual Conference due to Covid‑19.
+  
+  \item \underline{Hussien J}, McKay B, \textbf{Carter MJ}, Yantha Z, Brooks H, Hassin J, Turenne M, \& Ste-Marie DM. (2021). Failure to demonstrate an ``expecting to teach'' benefit: A replication and extension experiment. Verbal presentation at the Annual Meeting of the \emph{North American Society for Psychology of Sport \& Physical Activity}; Virtual Conference due to Covid‑19.
+  
+  \item \underline{St. Germain L}$^\dagger$, Williams A$^\dagger$, Poskus A$^\dagger$, Balbaa N$^\dagger$, Leshchyshen O$^\dagger$, Lohse KR, \& \textbf{Carter MJ}. (2020). Self-controlled learning: Making a yoked group explicitly aware of being denied choice. Verbal presentation at the Annual Meeting of the \emph{North American Society for Psychology of Sport \& Physical Activity}; Virtual Conference due to Covid‑19.
+  \begin{itemize}
+    \item Winner of the Outstanding Student Paper Award in Motor Control and Learning
+  \end{itemize}
+  
+  \item \underline{St. Germain L}$^\dagger$, Leshchyshen O$^\dagger$, Williams A$^\dagger$, \& \textbf{Carter MJ}. (2019). Manipulating the characteristics of self-controlled feedback schedules. Verbal presentation at the Annual Meeting of the \emph{Canadian Society for Psychomotor Learning \& Sport Psychology}; Vancouver BC, Canada.
+  
+  \item \underline{Williams A}$^\dagger$, \underline{St. Germain L}$^\dagger$, Leshchyshen O$^\dagger$, \& \textbf{Carter MJ}. (2019). Error estimation abilities and self-controlled feedback schedules. Poster presentation at the Annual Meeting of the \emph{Canadian Society for Psychomotor Learning \& Sport Psychology}; Vancouver BC, Canada.
+  
+  \item \underline{St. Germain L}$^\dagger$, \underline{Leshchyshen O}$^\dagger$, \& \textbf{Carter MJ}. (2019). Assessing the evidential value of incidental choices for motor learning. Poster presentation at the Annual Meeting of the \emph{North American Society for Psychology of Sport \& Physical Activity}; Baltimore MD, United States.
+  
+  \item \underline{Yantha ZD}, McKay B, \textbf{Carter MJ}, \& Ste-Marie DM. (2019). The effects of choice on motor skill learning: A meta-analysis of self-controlled research findings. Poster presentation at the Annual Meeting of the \emph{North American Society for Psychology of Sport \& Physical Activity}; Baltimore MD, United States.
+  
+  \item Zahir F$^\dagger$, \underline{St. Germain L}$^\dagger$, \& \underline{\textbf{Carter MJ}}. (2018). Inconvenient findings for the ``OPTIMAL'' theory of motor learning. Poster presentation at the Annual Meeting of the \emph{Canadian Society for Psychomotor Learning \& Sport Psychology}; Toronto ON, Canada.
+  
+  \item \underline{Gale D}, \textbf{Carter MJ}, Wolpert DM, Gallivan JP, \& Flanagan JR. (2017). Dynamic motor encoding of targets in multiple target tracking. Poster presentation at the Annual Meeting of the \emph{Society for Neuroscience}; Washington DC, United States.
+  
+  \item \underline{\textbf{Carter MJ}}, de Brouwer AJ, Smail L$^\dagger$, Wolpert DM, Gallivan JP, \& Flanagan JR. (2017). Gaze behaviour reveals the specification of competing reach movements under conditions of target uncertainty. Verbal presentation at the Annual Meeting of the \emph{Canadian Society for Psychomotor Learning \& Sport Psychology}; St. John's NF, Canada.
+
+  \item \underline{Yantha ZD}$^\dagger$, \textbf{Carter MJ}, Hussein J, Cotnam HP, \& Ste-Marie DM. (2017). Using error estimation to better understand the advantages of self-controlled practice. Verbal presentation at the Annual Meeting of the \emph{Canadian Society for Psychomotor Learning \& Sport Psychology}; St. John's NF, Canada.
+  
+  \item \underline{\textbf{Carter MJ}}, de Brouwer AJ, Smail L$^\dagger$, Wolpert DM, Gallivan JP, \& Flanagan JR. (2017). Gaze behaviour reveals the specification of competing reach movements. Poster presentation at the Annual Meeting of the \emph{Society for the Neural Control of Movement}; Dublin, Ireland.
+  
+  \item Yantha ZD$^\dagger$, \underline{\textbf{Carter MJ}}, \& Ste-Marie DM. (2016). Task-relevant and task-irrelevant choices differentially impact error estimation and motor learning. Verbal presentation at the Annual Meeting of the \emph{Canadian Society for Psychomotor Learning \& Sport Psychology}; Waterloo ON, Canada.
+  
+  \item \underline{\textbf{Carter MJ}}, Elnakouri A, Yantha ZD$^\dagger$, \& Ste-Marie DM. (2016). Not all choices are created equal: The differential impact of task-relevant and task-irrelevant choices on motor learning. Poster presentation at the Annual Meeting of the \emph{North American Society for Psychology of Sport \& Physical Activity}; Montreal QB, Canada.
+  
+  \item \underline{\textbf{Carter MJ}}, Maslovat D, \& Carlsen AN. (2016). A startling acoustic stimulus suggests advance preparation of intentional bimanual switches. Poster presentation at the Annual Meeting of the \emph{Society for the Neural Control of Movement}; Montego Bay, Jamaica.
+  
+  \item \underline{Ste-Marie DM}, \textbf{Carter MJ}, Law B, Smith V$^\dagger$, \& Vertes KA. (2015). Self-controlled learning benefits: Exploring contributions of self-efficacy and intrinsic motivation via path analysis. Poster presentation at the Annual Meeting of the \emph{European Congress of Sport Psychology}; Bern, Switzerland.
+  
+  \item \underline{\textbf{Carter MJ}}, Carlsen AN, Smith V$^\dagger$, \& Ste-Marie DM. (2015). Anodal transcranial direct current stimulation applied over the primary motor cortex does not enhance the learning benefits of self-controlled KR schedules. Poster presentation at the Annual Meeting of the \emph{Canadian Society for Psychomotor Learning \& Sport Psychology}; Edmonton AB, Canada.
+  
+  \item \underline{\textbf{Carter MJ}}, Head CA$^\dagger$, Puveendran P, \& Ste-Marie DM. (2015). Eliminating the learning benefits of self-controlled knowledge of results (KR) schedules: The improtance of information processing activities during the KR-delay interval. Verbal presentation at the Annual Meeting of the \emph{North American Society for Psychology of Sport \& Physical Activity}; Portland OR, United States.
+  
+  \item \underline{\textbf{Carter MJ}}, Carlsen AN, \& Ste-Marie DM. (2015). Self-controlled feedback is effective if it is based on the learner’s performance: A replicaiton and extension of Chiviacowsky \& Wulf (2005). Verbal presentation at the Annual Meeting of the \emph{North American Society for Psychology of Sport \& Physical Activity}; Portland OR, United States. 
+  \begin{itemize}
+    \item Presentation as part of the NASPSPA-SCAPPS exchange of Award Winners
+  \end{itemize}
+  
+  \item \underline{\textbf{Carter MJ}}, Maslovat D, Nguyen M, \& Carlsen AN. (2015). The learning of a 90-degree relative phase bimanual coordination pattern: A transcranial direct current stimulation investigation. Poster presentation at the Annual Meeting of the \emph{Society for the Neural Control of Movement}; Charleston SC, United States.
+  
+  \item \underline{\textbf{Carter MJ}}, Carlsen AN, \& Ste-Marie DM. (2014). Self-controlled feedback is effective if it is based on the learner’s performance: A replicaiton and extension of Chiviacowsky \& Wulf (2005). Verbal presentation at the Annual Meeting of the \emph{Canadian Society for Psychomotor Learning \& Sport Psychology}; London ON, Canada. 
+  \begin{itemize}
+    \item Winner of the Franklin Henry Young Scientist Award in Motor Control and Learning
+  \end{itemize}
+  
+  \item \underline{McKay B}, \underline{\textbf{Carter MJ}}, Rathwell S, \& Ste-Marie DM. (2014). The learning benefits of self‑controlled feedback schedules are modulated by strategy choice: A mixed‑methods approach. Poster presentation at the Annual Meeting of the \emph{Canadian Society for Psychomotor Learning \& Sport Psychology}; London ON, Canada.
+
+  \item \underline{Drummond NM}, Maslovat D, \textbf{Carter MJ}, Chiucchi A, \& Carlsen, AN. (2014). Startle activation is additive with voluntary cortical activation irrespective of stimulus modality. Poster presentation at the Annual Meeting of the \emph{Canadian Society for Psychomotor Learning \& Sport Psychology}; London ON, Canada.
+  
+  \item \underline{\textbf{Carter MJ}}, Klawitter D$^\dagger$, Carlsen AN, \& Ste-Marie DM. (2014). The option of receiving knowledge of results following performance leads to increased motor learning. Verbal presentation at the Annual Meeting of the \emph{North American Society for Psychology of Sport \& Physical Activity}; Minneapolis MN, United States.
+  
+  \item \underline{\textbf{Carter MJ}}, \underline{Smith V}$^\dagger$, Carlsen AN, \& Ste-Marie DM. (2014). Awareness of ``good'' versus ``poor'' feedback content does not mitigate illusions of competency. Poster presentation at the Annual Meeting of the \emph{North American Society for Psychology of Sport \& Physical Activity}; Minneapolis MN, United States.
+  
+  \item \underline{McKay B}, \textbf{Carter MJ}, \& Ste-Marie DM. (2014). Self-controlled learning: A meta-analysis. Poster presentation at the Annual Meeting of the \emph{North American Society for Psychology of Sport \& Physical Activity}; Minneapolis MN, United States.
+  
+  \item \underline{\textbf{Carter MJ}}, Cseke B$^\dagger$, Drummond NM, \& Carlsen AN. (2014). Intentional phase transitions in bimanual coordination following tDCS. Poster presentation at the Annual Meeting of the \emph{Society for the Neural Control of Movement}; Amsterdam, The Netherlands.
+  
+  \item \underline{Drummond NM}, Scantland-Lebel I, \textbf{Carter MJ}, Maslovat D, \& Carlsen AN. (2014). Startle reveals motor preparatory state associated with differential attentional demands. Poster presentation at the Annual Meeting of the \emph{Society for the Neural Control of Movement}; Amsterdam, The Netherlands.
+  
+  \item \underline{\textbf{Carter MJ}}, Drummond NM, \& Carlsen AN. (2013). Anodal tDCS decreases mean relative phase error during anti-phase
+movements. Poster presentation at the Annual Meeting of the \emph{Canadian Society for Psychomotor Learning \& Sport Psychology}; Kelowna BC, Canada.
+  
+  \item \underline{Ste-Marie DM}, Law B, \underline{\textbf{Carter MJ}}, Westlund N, Divine A, \& Martini R. (2013). Group versus individual administration of Movement Imagery Questionnaire for Children yields different movement imagery scores. Poster presentation at the Annual Meeting of the \emph{Canadian Society for Psychomotor Learning \& Sport Psychology}; Kelowna BC, Canada.
+  
+  \item Vertes KA, \underline{\textbf{Carter MJ}}, Smith V$^\dagger$, \& Ste-Marie DM. (2013). Self‑controlled video feedback is effective for learning when children adopt higher viewing frequencies. Verbal presentation at the Annual Meeting of the \emph{North American Society for Psychology of Sport \& Physical Activity}; New Orleans LA, United States.
+  
+  \item \underline{\textbf{Carter MJ}}, Yoxon E, Ste-Marie DM, Cumming, \& Martini R. (2013). The validation of a movement imagery questionnaire for children (MIQ‑C). Poster presentation at the Annual Meeting of the \emph{North American Society for Psychology of Sport \& Physical Activity}; New Orleans LA, United States.
+    
+  \item \underline{\textbf{Carter MJ}}, Maslovat D, Drummond NM, Kennefick M, \& Carlsen AN. (2013). Startle neural activity is additive with normal cortical initiation‑related activation. Poster presentation at the Annual Meeting of the \emph{Society for the Neural Control of Movement}; San Juan, Peurto Rico.
+
+  \item \underline{Drummond NM}, Hayduk-Costa G, \textbf{Carter MJ}, \& Carlsen AN. (2013). Bi-hemispheric tDCS over motor cortex does not influence free choice. Poster presentation at the Annual Meeting of the \emph{Society for the Neural Control of Movement}; San Juan, Peurto Rico.
+  
+  \item \underline{\textbf{Carter MJ}}, Drummond NM, Ste-Marie DM, \& Carlsen AN. (2012). Providing knowledge of results based on an absolute
+performance bandwidth results in illusions of competency. Verbal presentation at the Annual Meeting of the \emph{Canadian Society for Psychomotor Learning \& Sport Psychology}; Halifax NS, Canada.
+  
+  \item \underline{Hayduk-Costa G}, Drummond NM, \textbf{Carter MJ}, \& Carlsen AN. (2012). Turbocharging the ``go''-horse: Anodal tDCS results in early response initiation in an anticipation timing task. Verbal presentation at the Annual Meeting of the \emph{Canadian Society for Psychomotor Learning \& Sport Psychology}; Halifax NS, Canada.
+  
+  \item \underline{Kennefick M}, \textbf{Carter MJ}, Bajema MC, \& Carlsen AN. (2012). Dwell time mediates the preparation of single versus multiple component movements. Poster presentation at the Annual Meeting of the \emph{Canadian Society for Psychomotor Learning \& Sport Psychology}; Halifax NS, Canada.
+  
+  \item \underline{\textbf{Carter MJ}} \& Patterson JT. (2011). Self-controlled practice: Learning differences between younger and older adults. Poster presentation at the Annual Meeting of the \emph{Canadian Society for Psychomotor Learning \& Sport Psychology}; Winnipeg MB, Canada.
+  
+  \item \underline{\textbf{Carter MJ}} \& Patterson JT. (2010). Self-controlled KR: Does it facilitate an internal representation of a spatial motor task?. Poster presentation at the Annual Meeting of the \emph{Canadian Society for Psychomotor Learning \& Sport Psychology}; Ottawa ON, Canada.
+  
+  \item \underline{\textbf{Carter MJ}}, Patterson JT, \& Hansen S. (2010). Learner-controlled KR: Does repetition order matter?. Poster presentation at the Annual Meeting of the \emph{North American Society for Psychology of Sport \& Physical Activity}; Tuscan AZ, United States.
+  
+  \item \underline{\textbf{Carter MJ}} \& Patterson JT. (2009). Manipulating the structure of a learner-controlled KR practice context: Do the learning advantages persist?. Poster presentation at the Annual Meeting of the \emph{Canadian Society for Psychomotor Learning \& Sport Psychology}; Toronto ON, Canada.
+\end{etaremune}
+```

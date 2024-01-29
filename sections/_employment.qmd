@@ -1,0 +1,16 @@
+```{r}
+#| label: employment
+#| output: asis
+
+tibble::tribble(
+  ~years, ~position, ~department, ~institution,
+  "2017--Present", "\\textbf{Assistant Professor}", "Department of Kinesiology", "McMaster University",
+  "2016--17", "\\textbf{Teaching Adjunct Professor}", "School of Kinesiology and Health Studies", "Queen's University",
+  "2012--16", "\\textbf{Part-time Professor}", "School of Human Kinetics", "University of Ottawa"
+) |>
+dplyr::mutate(
+  employment = paste(position, ", ", department, ", ", institution, sep = "")
+) |>
+dplyr::select(years, employment) |>
+baretable(align = c('llp{15.25cm}'))
+```

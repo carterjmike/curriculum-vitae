@@ -1,0 +1,122 @@
+## Editorial Boards
+
+```{r}
+#| label: editorial
+#| output: asis
+
+tibble::tribble(
+  ~Years, ~Role, ~Name,
+  "2024--Present", "\\textbf{Editorial Board}", "\\emph{Journal of Motor Behavior}",
+  "2022--Present", "\\textbf{Managing Board}", "\\emph{Peer Community in Health \\& Movement Sciences}",
+  "2022--Present", "\\textbf{Section Editor (Sensorimotor Control)}", "\\emph{Communications in Kinesiology}",
+) |> 
+  dplyr::mutate(
+    description = paste(Role, "; ", Name, sep = "")
+  ) |> 
+  dplyr::select(Years, description) |> 
+  baretable(align = c('llp{15cm}'))
+```
+
+
+## Grant and Personnel Committees
+
+```{r}
+#| label: grants-personnel-committees
+#| output: asis
+
+tibble::tribble(
+  ~Years, ~Role, ~Name,
+  "2019", "\\textbf{Reviewer}", "Canadian Society for Psychomotor Learning \\& Sport Psychology Franklin Henry Young Scientist Award (Motor Control \\& Learning)",
+  "2019", "\\textbf{Reviewer}", "Ontario Women's Health Scholarship",
+  "2012--13", "\\textbf{Reviewer}", "University of Ottawa Faculty of Health Sciences Research Funding",
+) |> 
+  dplyr::mutate(
+    description = paste(Role, "; ", Name, sep = "")
+  ) |> 
+  dplyr::select(Years, description) |> 
+  baretable(align = c('llp{15cm}'))
+```
+
+
+## Executive Positions
+
+```{r}
+#| label: executive-positions
+#| output: asis
+
+tibble::tribble(
+  ~Years, ~Role, ~Name,
+  "2023--Present", "\\textbf{Chair}", "\\emph{Society for Transparency, Openness, and Replication in Kinesiology} (STORK)",
+  "2022--23", "\\textbf{Co-Chair}", "\\emph{Society for Transparency, Openness, and Replication in Kinesiology} (STORK)",
+) |> 
+  dplyr::mutate(
+    description = paste(Role, "; ", Name, sep = "")
+  ) |> 
+  dplyr::select(Years, description) |> 
+  baretable(align = c('llp{15cm}'))
+```
+
+
+## Ad hoc Journal Referee
+
+Total number of reviews = 61
+
+\vspace{1em}
+
+- Biological Psychology
+- Canadian Journal of Experimental Psychology
+- Clinical Neurophysiology
+- Communications in Kinesiology
+- European Journal of Sport Science
+- Experimental Brain Research
+- Frontiers in Psychology
+- Gait & Posture
+- Human Movement Science
+- International Review of Sport and Exercise Psychology
+- Journal of Learning & Instruction
+- Journal of Motor Behavior
+- Journal of Neurophysiology
+- Journal of Motor Learning & Development
+- Journal of Sport Sciences
+- Perceptual & Motor Skills
+- Psychological Research
+- Psychology of Sport & Exercise
+- Quarterly Journal of Experimental Psychology
+- Research Quarterly for Exercise & Sport
+- Sport, Exercise, and Performance Psychology
+
+## External Grant Reviews
+
+```{r}
+#| label: external-grant-reviews
+#| output: asis
+
+tibble::tribble(
+  ~Year, ~Name, ~Program,
+  "2022", "\\textbf{NSERC Discovery Grant Program}", "Biological Systems and Functions",
+  "2021", "\\textbf{NSERC Discovery Grant Program}", "Biological Systems and Functions",
+) |> 
+  dplyr::mutate(
+    description = paste(Name, ", ", Program, sep = "")
+  ) |> 
+  dplyr::select(Year, description) |> 
+  baretable(align = c('llp{15cm}'))
+```
+
+## Volunteer Positions
+
+```{r}
+#| label: volunteer
+#| output: asis
+
+tibble::tribble(
+  ~Years, ~Role, ~Name,
+  "2022--Present", "\\textbf{Moderator}", "\\emph{SportR$\\chi$iv} preprint server",
+  "2022--Present", "\\textbf{Typesetter}", "\\emph{Communications in Kinesiology}",
+) |> 
+  dplyr::mutate(
+    description = paste(Role, ", ", Name, sep = "")
+  ) |> 
+  dplyr::select(Years, description) |> 
+  baretable(align = c('llp{15cm}'))
+```

@@ -1,0 +1,15 @@
+```{r}
+#| label: test
+
+tibble::tribble(
+  ~years, ~position, ~department, ~institution,
+  "Jan 2015--April 2015", "\\textbf{Visiting Scholar}", "Department of Biokinesiology and Physical Therapy", "University of Southern California"
+) |> 
+  dplyr::mutate(
+    employment = paste(position, ", ", department, ", ", institution, sep = "")
+  ) |> 
+  dplyr::select(years, employment) |>
+  kbl("latex", escape = FALSE, booktabs = TRUE, col.names = NULL, bottomrule = "", toprule = "") |> 
+  kable_styling(latex_options = c('hold_position')) |> 
+  column_spec(2, width = "4cm")
+```

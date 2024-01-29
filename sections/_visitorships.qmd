@@ -1,0 +1,14 @@
+```{r}
+#| label: visitorships
+#| output: asis
+
+tibble::tribble(
+  ~years, ~position, ~department, ~institution,
+  "Jan 2015--April 2015", "\\textbf{Visiting Scholar}", "Department of Biokinesiology and Physical Therapy", "University of Southern California"
+) |> 
+  dplyr::mutate(
+    employment = paste(position, ", ", department, ", ", institution, sep = "")
+  ) |> 
+  dplyr::select(years, employment) |> 
+  baretable(align = c('llp{14cm}'))
+```

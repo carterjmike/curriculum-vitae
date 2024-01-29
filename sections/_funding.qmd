@@ -1,0 +1,31 @@
+## Current
+
+```{=latex}
+\begin{etaremune}[leftmargin=1.75em, itemsep=0.5em]
+
+  \item 2018--2025, \underline{Carter MJ}. \textbf{Decision-making and assignment policies in sensorimotor neuroscience}. Natural
+Sciences \& Engineering Research Council of Canada Discovery Grant, \$203,000.
+  
+  \item 2017--Present, \underline{Carter MJ}. \textbf{Research Startup}. McMaster University, \$100,000.
+
+\end{etaremune}
+```
+
+
+## Previous
+
+```{=latex}
+\begin{etaremune}[leftmargin=1.75em, itemsep=0.5em]
+
+  \item 2018--23, \underline{Carter MJ}. \textbf{Establishment of the Memory, Action, \& Cognition laboratory for the study of human sensorimotor neuroscience}. Ontario Research Fund--Research Infrastructure, \$127,514.
+  
+  \item 2018--23, \underline{Carter MJ}. \textbf{Establishment of the Memory, Action, \& Cognition laboratory for the study of human sensorimotor neuroscience}. Canadian Foundation for Innovation John R. Evans Leaders Fund, \$127,514.
+  
+  \item 2022, \underline{Carter MJ}. \textbf{Life Events Support Program}. McMaster University Faculty of Science, \$47,673.
+  
+  \item 2021, \underline{Carter MJ}. \textbf{Life Events Support Program}. McMaster University Faculty of Science, \$36,687.
+  
+  \item 2019--20, \underline{Carter MJ}. \textbf{Decision-making and assignment policies in sensorimotor neuroscience}. Natural Sciences \& Engineering Research Council of Canada Discovery Launch Supplement Early Career Researcher, \$12,500.
+
+\end{etaremune}
+```

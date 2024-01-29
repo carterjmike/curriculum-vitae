@@ -1,0 +1,19 @@
+```{=latex}
+\begin{etaremune}[leftmargin=1.75em, itemsep=0.5em]
+  
+  \item Open and reproducible research in a productivity demanding academic world. Motor Learning and Control Online Research Seminar Series, \emph{North American Society for Psychology of Sport \& Physical Activity}. Invited team talk with Drs. Diane Ste-Marie, Keith Lohse, and Matthew Miller; November 2020.
+  
+  \item Embracing uncertainty and learning to learn. Neuroscience Tutorial, \emph{McMaster University}. Invited talk; January 2019.
+  
+  \item Self-controlled feedback and error estimation. Symposium on "Errors make you better: Behavioural, theoretical, and neurophysiological determinates of error processing in motor learning", \emph{Canadian Society for Psychomotor Learning \& Sport Psychology}. Invited talk; October 2018.
+  
+  \item Decision-making for action control and learning. Kinesiology Seminar Series, \emph{McMaster University}. Invited talk; September 2017.
+  
+  \item Cognition and motor skill learning: Insights from learner-controlled protocols. Centre for Neuroscience Studies Seminar Series, \emph{Queen's University}. Invited talk; May 2016.
+  
+  \item Self-controlled feedback and motor learning. Franklin Henry Young Scientist Award Presentation, \emph{Canadian Society for Psychomotor Learning \& Sport Psychology}. Invited talk; October 2014.
+  
+  \item Cognitive processes underlying the learning advantages of self-controlled feedback schedules. Biokinesiology and Physical Therapy Seminar Series, \emph{University of Southern California}. Invited talk; March 2015.
+  
+\end{etaremune}
+```

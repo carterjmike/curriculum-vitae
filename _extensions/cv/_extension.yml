@@ -1,0 +1,9 @@
+title: Curriculum vitae (Adapted from Rob J Hyndman and Cynthia Huang)
+author: Michael J. Carter (Original author is Rob J Hyndman)
+version: 0.1.0
+contributes:
+  formats:
+    pdf:
+      template: cv.tex
+      pdf-engine: pdflatex
+      echo: false

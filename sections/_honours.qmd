@@ -1,0 +1,21 @@
+```{r}
+#| label: honours
+#| output: asis
+
+tibble::tribble(
+  ~Year, ~Name, ~Institution, ~Amount,
+  "2016", "\\textbf{Dean's award}", "University of Ottawa", "\\$3000",
+  "2015", "\\textbf{Michael Smith Foreign Study Supplement}", "Natural Sciences \\& Engineering Research Council of Canada", "\\$6000",
+  "2014", "\\textbf{Franklin Henry Young Scientist Award (Motor Control and Learning)}", "Canadian Society for Psychomotor Learning \\& Sport Psychology", "\\$300",
+  "2013--15", "\\textbf{Alexander Graham Bell Canada Graduate Scholarship - Doctorate}", "Natural Sciences \\ Engineering Research Council of Canada", "\\$70,000",
+  "2009--10", "\\textbf{Frederick Banting and Charles Best Canada Graduate Scholars - Masters}", "Canadian Institutes of Health Research", "\\$17,500",
+  "2009--10", "\\textbf{Ontario Graduate Scholarship} (Declined)", "Ontario Provincial Government", "\\$15,000",
+  "2008", "\\textbf{Undergraduate Student Research Award}", "Brock University", "\\$3250",
+  "2008", "\\textbf{Graduated with First-Class Standing}", "Brock University", "",
+) |> 
+  dplyr::mutate(
+    description = paste(Name, ", ", Institution, "; ", Amount, sep = "")
+  ) |> 
+  dplyr::select(Year, description) |> 
+  baretable(align = c('llp{16cm}'))
+```

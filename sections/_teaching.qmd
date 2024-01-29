@@ -1,0 +1,83 @@
+*Denotes course was co-taught
+
+## Undergraduate
+
+\vspace{-1em}
+
+```{r}
+tibble::tribble(
+  ~Year, ~Semester, ~Course, ~Department, ~Code, ~Enrollment,
+  "2023", "Fall", "Human Robotics", "Kinesiology", "4TT3", "42 students",
+  "2023", "Fall", "Motor Control and Learning", "Kinesiology", "1E03", "236 students",
+  "2022", "Winter", "Human Robotics", "Kinesiology", "4TT3", "31 students",
+  "2021", "Fall", "Motor Control and Learning*", "Kinesiology", "1E03", "186 students",
+  "2020", "Fall", "Motor Control and Learning", "Kinesiology", "1E03", "270 students",
+  "2019", "Fall", "Motor Control and Learning", "Kinesiology", "1E03", "212 students",
+  "2018", "Fall", "Motor Control and Learning", "Kinesiology", "1E03", "252 students",
+  "2018", "Winter", "Motor Control and Learning*", "Kinesiology", "1E03", "186 students",
+) |> 
+  dplyr::mutate(
+  Offered = paste(Semester, " ", Year, sep = "")
+) |>
+  dplyr::select(Offered, Course, Department, Code, Enrollment) |> 
+  kbl(
+    format = "latex",
+    booktabs = TRUE,
+    align = "l",
+    escape = FALSE,
+    longtable = TRUE,
+    linesep = ""
+  ) |>
+  kable_styling(
+    position = "left",
+    latex_options = c("hold_position", "repeat_header")
+  ) |> 
+  row_spec(row = 0, bold = TRUE) |> 
+  column_spec(column = 2, width = "7.5cm")
+```
+
+## Graduate
+
+\vspace{-1em}
+
+```{r}
+tibble::tribble(
+  ~Year, ~Semester, ~Course, ~Department, ~Code, ~Enrollment,
+  "2024", "Winter", "Scientific Computing for Sensorimotor Neuroscience", "Kinesiology", "736", "2 students",
+  "2023", "Fall", "Directed Reading", "Kinesiology", "713", "1 student",
+  "2023", "Fall", "Individual Study in Selected Topics", "Kinesiology", "702", "1 student",
+  "2023", "Winter", "Special Topics Evaluation", "Psychology", "714", "1 student",
+  "2023", "Winter", "Statistical Methods in Kinesiology", "Kinesiology", "701", "15 students",
+  "2023", "Winter", "Motor Control", "Kinesiology", "711", "2 students",
+  "2022", "Fall", "Individual Study in Selected Topics", "Kinesiology", "702", "2 students",
+  "2021", "Fall", "Statistical Methods in Kinesiology", "Kinesiology", "701", "9 students",
+  "2020", "Fall", "Motor Control", "Kinesiology", "711", "1 student",
+  "2020", "Fall", "Statistical Methods in Kinesiology", "Kinesiology", "701", "14 students",
+  "2020", "Winter", "Individual Study in Selected Topics", "Kinesiology", "702", "2 students",
+  "2019", "Fall", "Statistical Methods in Kinesiology", "Kinesiology", "701", "12 students",
+  "2019", "Fall", "Motor Control*", "Kinesiology", "711", "4 students",
+  "2019", "Winter", "Directed Reading", "Kinesiology", "713", "1 student",
+  "2018", "Fall", "Statistical Methods in Kinesiology", "Kinesiology", "701", "8 students",
+  "2018", "Fall", "Motor Control*", "Kinesiology", "711", "4 students",
+  "2018", "Winter", "Statistical Methods in Kinesiology", "Kinesiology", "701", "17 students",
+) |> 
+  dplyr::mutate(
+  Offered = paste(Semester, " ", Year, sep = "")
+) |>
+  dplyr::select(Offered, Course, Department, Code, Enrollment) |> 
+  kbl(
+    format = "latex",
+    booktabs = TRUE,
+    align = "l",
+    escape = FALSE,
+    longtable = TRUE,
+    linesep = ""
+  ) |>
+  kable_styling(
+    position = "left",
+    latex_options = c("hold_position", "repeat_header")
+  ) |> 
+  row_spec(row = 0, bold = TRUE) |> 
+  column_spec(column = 2, width = "7.5cm")
+```
+

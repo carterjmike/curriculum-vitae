@@ -1,0 +1,17 @@
+```{r}
+#| label: education
+#| output: asis
+
+tibble::tribble(
+  ~degree, ~institution, ~program, ~year,
+  "Postdoctoral fellow", "Queen's University", "Centre for Neuroscience Studies", 2017,
+  "Ph.D.", "University of Ottawa", "School of Human Kinetics", 2016,
+  "M.Sc.", "Brock University", "Department of Kinesiology", 2011,
+  "B.Ph.Ed (Hons)", "Brock University", "Department of Kinesiology", 2008
+) |>
+dplyr::mutate(
+  education = paste(institution, ", ", program, sep = "")
+) |>
+dplyr::select(degree, education, year) |>
+baretable()
+```

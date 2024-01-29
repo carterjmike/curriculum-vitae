@@ -1,0 +1,21 @@
+```{r}
+#| label: admin
+#| output: asis
+
+tibble::tribble(
+  ~Years, ~Name, ~Role,
+  "2024--Present", "\\textbf{Advancing Tomorrow's Science Careers - Career Competency Advisory Group}", "Member",
+  "2023--24", "\\textbf{Department of Kinesiology Executive Council}", "Member",
+  "2023--24", "\\textbf{Department of Kinesiology Comprehensive Examinations}", "Chair",
+  "2022--Present", "\\textbf{Department of Kinesiology Makerspace Committee}", "Member",
+  "2019--21", "\\textbf{Department of Kinesiology Awards Committee}", "Member",
+  "2018--20", "\\textbf{Department of Kinesiology Undergraduate Curriculum \\& Policy}", "Member",
+  "2017--22", "\\textbf{Department of Kinesiology Graduate Curriculum \\& Policy}", "Member",
+  "2012--13", "\\textbf{CUPE 2626}", "Member (Human Kinetics Union Steward)",
+) |> 
+  dplyr::mutate(
+    description = paste(Name, "; ", Role, sep = "")
+  ) |> 
+  dplyr::select(Years, description) |> 
+  baretable(align = c('llp{15cm}'))
+```

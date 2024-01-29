@@ -1,0 +1,127 @@
+---
+name: Michael J. Carter
+address: "McMaster University \\tabularnewline
+  Ivor Wynne Centre Room 203 \\tabularnewline
+  Hamilton ON, Canada L8S 4K1"
+www: cartermaclab.org
+phone: +1 905 525 9140 x20391
+email: "cartem11@mcmaster.ca"
+# twitter: carterjmike
+github: carterjmike
+linkedin: carterjmike
+orcid: 0000-0002-0675-4271
+classoption: letterpaper
+date: "`r format(Sys.Date(), '%B %Y')`"
+date-format: "MMMM YYYY"
+position: "Assistant Professor \\tabularnewline Department of Kinesiology"
+number-sections: true
+number-depth: 2
+fontsize: "12pt"
+format: 
+  cv-pdf:
+    include-in-header:
+      - text: |
+          \definecolor{headcolor}{HTML}{011640}
+          \usepackage[sfdefault]{atkinson}
+          \usepackage[T1]{fontenc}
+          \usepackage{colortbl}
+          \arrayrulecolor{white}
+          \usepackage{etaremune}
+          \usepackage{csquotes}
+          \MakeOuterQuote{"}
+          \usepackage[none]{hyphenat}
+# nord headcolor options: dark blue 5e81ac
+# kanagawa headcolor options: dark blue 011640 lightblue 2d5873
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+  echo = FALSE,
+  warning = FALSE,
+  message = FALSE,
+  cache = FALSE
+)
+library(kableExtra)
+library(tidyverse)
+# library(RefManageR)
+# source("R/add_bib_section.R")
+source("pretty.R")
+```
+
+\renewcommand{\labelitemi}{\textbullet}
+\renewcommand{\labelitemii}{\textbullet}
+
+
+# Research interests
+
+{{< include sections/_research-interests.qmd >}}
+
+
+# Education and training
+
+{{< include sections/_education.qmd >}}
+
+
+# Employment history
+
+{{< include sections/_employment.qmd >}}
+
+
+# Visitorships
+
+{{< include sections/_visitorships.qmd >}}
+
+
+# Career interruptions, delays, and/or professional breaks
+
+{{< include sections/_interruptions.qmd >}}
+
+
+# Professional organizations
+
+{{< include sections/_professional-organizations.qmd >}}
+
+
+# Supervision
+
+{{< include sections/_supervision.qmd >}}
+
+
+# Research funding
+
+{{< include sections/_funding.qmd >}}
+
+
+# Publications
+
+{{< include sections/_publications.qmd >}}
+
+
+# Talks
+
+{{< include sections/_talks.qmd >}}
+
+
+# Conference presentations
+
+{{< include sections/_presentations.qmd >}}
+
+
+# Courses taught
+
+{{< include sections/_teaching.qmd >}}
+
+
+# Honours and awards
+
+{{< include sections/_honours.qmd >}}
+
+
+# Administrative responsibilities
+
+{{< include sections/_administrative.qmd >}}
+
+
+# Scholarly and professional activities
+
+{{< include sections/_activities.qmd >}}

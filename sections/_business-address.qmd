@@ -1,0 +1,9 @@
+```{=latex}
+\begin{tabular}{p{8cm}p{2cm}p{5cm}}
+Ivor Wynne Centre, Room 203 & Phone: & +1 905.525.9140 ext. 20391 \\
+1280 Main Street West & Fax: & +1 905.523.6911\\
+Hamilton, Ontario, Canada & Email: & cartem11@mcmaster.ca \\
+L8S 4K1 & Lab Email: & motorlab@mcmaster.ca \\
+\end{tabular}
+```
+
