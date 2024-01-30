@@ -9,4 +9,4 @@ I have adopted a modular approach to the CV to hopefully streamline the process 
 
 ## Past
 
-I originally had a pretty ugly looking CV that was made with MS Turd. Eventually I upgraded to a nicer looking CV, typeset-wise (still ugly design), using LaTeX. I then started to use RMarkdown in most of my workflow and stumbled upon the fantastic `R` package {vitae} (https://github.com/mitchelloharawild/vitae). I used this for multiple years, first with the AwesomeCV template and later the Hyndman format.
+I originally had a pretty ugly looking CV that was made with MS Turd. Eventually I upgraded to a nicer looking CV, typeset-wise (still ugly design), using LaTeX. I then started to use RMarkdown in most of my workflow and stumbled upon the fantastic R package {vitae} (https://github.com/mitchelloharawild/vitae). I used this for multiple years, first with the AwesomeCV template and later the Hyndman format.
