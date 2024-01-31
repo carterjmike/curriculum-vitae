@@ -5,7 +5,7 @@ $^\dagger$Denotes trainee, $^\ddagger$Denotes co-senior authorship
 ```{=latex}
 \begin{etaremune}[leftmargin=1.75em, itemsep=0.5em]
 
-  \item McKay B$^\dagger$, Corson AE, Seedu J$^\dagger$, De Faveri CS$^\dagger$, Hasan H$^\dagger$, Arnold K$^\dagger$, Adams FC$^\dagger$, \& \textbf{Carter MJ}. Reporting bias, not external focus: A robust Bayesian meta-analysis of the focus of attention literature. \emph{Psychological Bulletin}. Manuscript submission ID: BUL-2023-1221. \emph{[Revisions submitted]}
+  \item McKay B$^\dagger$, Corson AE, Seedu J$^\dagger$, De Faveri CS$^\dagger$, Hasan H$^\dagger$, Arnold K$^\dagger$, Adams FC$^\dagger$, \& \textbf{Carter MJ}. Reporting bias, not external focus: A robust Bayesian meta-analysis of the focus of attention literature. \emph{Psychological Bulletin}. Manuscript submission ID: BUL-2023-1221.R1. \emph{[Revisions submitted]}
 
 \end{etaremune}
 ```
