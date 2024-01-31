@@ -1,5 +1,7 @@
 ```{=latex}
 \begin{etaremune}[leftmargin=1.75em, itemsep=0.5em]
+
+  \item Sample size planning to design informative studies. Pre-conference workshop, \emph{North American Society for Psychology of Sport \& Physical Activity}. Invited team with Dr. Brad McKay, Laura St. Germain, Julia Hussien, Dr. Mariane Bacelar, and Dr. Keith Lohse; June 2023.
   
   \item Open and reproducible research in a productivity demanding academic world. Motor Learning and Control Online Research Seminar Series, \emph{North American Society for Psychology of Sport \& Physical Activity}. Invited team talk with Drs. Diane Ste-Marie, Keith Lohse, and Matthew Miller; November 2020.
   
