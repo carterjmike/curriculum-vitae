@@ -207,11 +207,11 @@ tibble::tribble(
 ```{r}
 tibble::tribble(
   ~`Year(s)`, ~Name, ~Program, ~Type, ~University,
-  "2022--", "Vida Sussma", "Psychology", "Volunteer", "McMaster University",
+  "2022--", "Vida Sussman", "Psychology", "Volunteer", "McMaster University",
   "2022--23", "Lidia Barbera", "Life Sciences", "Volunteer", "McMaster University",
-  "2022--23", "Hibaa Hasan", "Life Sciences", "Volunteer", "McMaster University",
   "2022", "Faith Adams", "Neuroscience", "Volunteer", "McMaster University",
-  "2021--", "Celeste De Faveri", "Biomedical Science", "Volunteer", "McGill University",
+  "2021--23", "Hibaa Hasan", "Life Sciences", "Volunteer", "McMaster University",
+  "2021--23", "Celeste De Faveri", "Biomedical Science", "Volunteer", "McGill University",
   "2021--22", "Chitrini Tandon", "Life Sciences", "Volunteer", "McMaster University",
   "2021--22", "Kristen Arnold", "Life Sciences", "Volunteer", "McMaster University",
   "2020--23", "Elizabeth Mitchell", "Integrated Biomedical Engineering \\& Health Sciences", "Co-op / Volunteer", "McMaster University",
