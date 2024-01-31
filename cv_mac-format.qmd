@@ -52,24 +52,130 @@ source("pretty.R")
 \renewcommand{\labelitemii}{\textbullet}
 
 
-# Research interests
+# 1. Name in full
 
-{{< include sections/_research-interests.qmd >}}
+Michael James Joseph Carter
 
 
-# Education and training
+# 2. Business address
+
+{{< include sections/_business-address.qmd >}}
+
+
+# 3. Educational background
 
 {{< include sections/_education.qmd >}}
 
 
-# Employment history
+# 4. Current status at McMaster
+
+
+# 5. Professional organizations
+
+{{< include sections/_professional-organizations.qmd >}}
+
+
+# 6. Employment history
+
+## a) Academic
 
 {{< include sections/_employment.qmd >}}
 
+## b) Consultation
 
-# Visitorships
+None.
+
+## c) Other
 
 {{< include sections/_visitorships.qmd >}}
+
+
+# 7. Scholarly and professional activities
+
+{{< include sections/_activities.qmd >}}
+
+
+# 8. Areas of interest (research, teaching, consulting)
+
+## a) Research
+
+{{< include sections/_research-interests.qmd >}}
+
+## b) Teaching
+
+TODO
+
+## c) Consulting
+
+TODO
+
+
+# 9. Honours and awards
+
+{{< include sections/_honours.qmd >}}
+
+
+# 10. Courses taught (last 5 years)
+
+TODO
+
+
+# 11. Contributions to teaching pratice
+
+## a) Pedagogic innovation and/or development of technology-enhanced learning
+
+## b) Leadership in delivery of educational programs
+
+## c) Course/curriculum development
+
+## d) Development/evaluation of educational materials and programs
+
+## e) Other
+
+
+
+# 12. Supervisorships
+
+## a) Masters
+
+## b) Doctoral
+
+## c) Postdoctoral
+
+## d) Clinical/professional
+
+## e) Supervisory committees
+
+## f) Other
+
+
+# 13. Lifetime research funding
+
+## a) Current
+
+## b) Previous
+
+
+# 14. Lifetime Publications
+
+
+# 15. Presentations at Meetings
+
+## a) Invited
+
+
+## b) Contributed
+
+
+# 16. Patents, inventions, and copyrights
+
+
+# 17. Administrative responsibilities
+
+
+# 18. Other responsibilities
+
+
 
 
 # Career interruptions, delays, and/or professional breaks
@@ -77,51 +183,7 @@ source("pretty.R")
 {{< include sections/_interruptions.qmd >}}
 
 
-# Professional organizations
-
-{{< include sections/_professional-organizations.qmd >}}
 
 
-# Supervision
-
-{{< include sections/_supervision.qmd >}}
 
 
-# Research funding
-
-{{< include sections/_funding.qmd >}}
-
-
-# Publications
-
-{{< include sections/_publications.qmd >}}
-
-
-# Talks
-
-{{< include sections/_talks.qmd >}}
-
-
-# Conference presentations
-
-{{< include sections/_presentations.qmd >}}
-
-
-# Courses taught
-
-{{< include sections/_teaching.qmd >}}
-
-
-# Honours and awards
-
-{{< include sections/_honours.qmd >}}
-
-
-# Administrative responsibilities
-
-{{< include sections/_administrative.qmd >}}
-
-
-# Scholarly and professional activities
-
-{{< include sections/_activities.qmd >}}
